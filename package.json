@@ -31,6 +31,7 @@
     "axios": "^0.21.1",
     "dat.gui": "^0.7.7",
     "dayjs": "^1.10.4",
+    "ethereum-block-by-date": "^1.4.2",
     "graphql": "^15.5.0",
     "graphql-request": "^3.4.0",
     "gray-matter": "^4.0.2",
@@ -60,7 +61,8 @@
     "video.js": "^7.15.4",
     "videojs-contrib-hls": "^5.15.0",
     "videojs-contrib-quality-levels": "^2.1.0",
-    "videojs-hls-quality-selector": "^1.1.4"
+    "videojs-hls-quality-selector": "^1.1.4",
+    "web3": "^1.6.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.33",
